@@ -1,0 +1,4 @@
+#!/bin/sh
+#mysql.server start
+sudo php -S lawyerly_forms.dev:80 -t ./wordpress
+#mysql.server stop
